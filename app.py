@@ -29,4 +29,4 @@ with tab_theory:
 
 with tab_about:
     st.write("Mini project: One-Point Perspective Virtual Room Designer.")
-    st.write("Name: [Your Name]  |  Enrollment No.: [Your Number]  |  Guide: [Faculty Name]")
+    st.write("Name: Rishav Chowdhury  |  Reg No.: 2411021060342  
